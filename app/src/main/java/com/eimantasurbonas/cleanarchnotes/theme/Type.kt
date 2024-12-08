@@ -1,4 +1,4 @@
-package com.eimantasurbonas.cleanarchnotes.ui.theme
+package com.eimantasurbonas.cleanarchnotes.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

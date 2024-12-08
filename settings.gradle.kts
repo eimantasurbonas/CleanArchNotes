@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "CleanArchNotes"
 include(":app")
- 
+include(":data")
+include(":domain")
+include(":notes")
